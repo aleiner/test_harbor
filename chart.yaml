@@ -1,0 +1,4 @@
+dependencies:
+- name: harbor/harbor
+  version: 1.14.2
+  repository: https://helm.goharbor.io
